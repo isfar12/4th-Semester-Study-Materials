@@ -3,7 +3,9 @@
 * **Word origin:** The word *Economics* comes from the Greek word **"Oikonomia"** — *Oikos* (household) + *Nomos* (management) → meaning **"household management."**
 * **Definitions:**
   * **Adam Smith:** Economics is the study of how nations create wealth.
-  * **Lionel Robbin| **Microeconomics**                               | **Macroeconomics**                                        |
+  * **Lionel Robbin** Economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses.
+
+| **Microeconomics**                               | **Macroeconomics**                                        |
 | ------------------------------------------------ | --------------------------------------------------------- |
 | Looks at small units: individuals, firms, prices | Looks at the whole economy: national income, unemployment |
 | Example: Price of rice, income of a farmer       | Example: Bangladesh's total GDP or inflation              |
@@ -50,11 +52,11 @@ Economics can be studied from two different perspectives:
 
 | **Positive Economics** | **Normative Economics** |
 |------------------------|-------------------------|
-| What **IS** | What **SHOULD BE** |
-| Facts and data | Opinions and values |
-| Objective | Subjective |
-| Can be tested | Cannot be tested |
-| Descriptive | Prescriptive |
+| What **IS**            | What **SHOULD BE**      |
+| Facts and data         | Opinions and values     |
+| Objective              | Subjective              |
+| Can be tested          | Cannot be tested        |
+| Descriptive            | Prescriptive            |
 
 #### **Relationship:**
 - Positive economics provides the **foundation** for normative economics
@@ -785,6 +787,3 @@ Types:
 * **Investment:** Adding to capital (buying machines, buildings, etc.)
 
 ---
-
-Let’s pause here 🔔 — you’ve covered a lot!
-Want to try a **quick review quiz**, or should I help you with **summary flashcards**?
